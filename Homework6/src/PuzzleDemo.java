@@ -1,4 +1,4 @@
-package edu.miamioh.wangy99;
+
 
 public class PuzzleDemo {
 	public static void main(String[] args) {
